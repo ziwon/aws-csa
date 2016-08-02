@@ -8,6 +8,8 @@ AWS Certificated Solutions Architect
 - https://cloudacademy.com/certifications/
 
 ### Case Study
+- http://aws-solutions-associate-exam-dumps.blogspot.kr/
+- http://blog.itexamkr.com/?p=2353
 - http://wincloud.link/pages/viewpage.action?pageId=8192021%EA%B8%B0
 - https://josephkim75.wordpress.com/2014/05/20/aws-certified-solutions-architect-associate-level-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0/
 
