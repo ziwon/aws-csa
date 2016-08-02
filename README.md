@@ -5,6 +5,7 @@ AWS Certificated Solutions Architect
 - http://edu.supertrack.co.kr/certificate/intro.php
 
 ### Courses
+- https://www.udemy.com/aws-certified-solutions-architect-associate/
 - https://cloudacademy.com/certifications/
 
 ### Case Study
