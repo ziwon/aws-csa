@@ -1,1 +1,1 @@
-
+- [Public AMI Publishing: Hardening and Clean-up Requirements](https://aws.amazon.com/articles/9001172542712674)
