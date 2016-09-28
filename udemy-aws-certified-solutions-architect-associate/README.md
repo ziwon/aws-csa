@@ -1,1 +1,2 @@
 - [Public AMI Publishing: Hardening and Clean-up Requirements](https://aws.amazon.com/articles/9001172542712674)
+- [Guidelines for Shared Linux AMIs](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/building-shared-amis.html)
