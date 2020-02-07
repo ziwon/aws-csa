@@ -34,7 +34,7 @@ Correct
 - 99.999999999%
 
 ### What is the minimum file size that I can store on S3?
-- 1 Byte
+- 0 Bytes
 
 ### The difference between S3 and EBS is that EBS is object based where as S3 is block based.
 - False
